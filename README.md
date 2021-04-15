@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/ahmedheltaher)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/ahmed-eltaher-a643801b6/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/ahmed.eltaher.568294)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/ahmedheltaher/)  &nbsp; <a href="mailto:ahmedheltaher2002@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 ## ⚡ Stats
-![ahmedheltaher2002's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedheltaher2002&hide=["issues"]&show_icons=true).   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedheltaher2002&layout=compact&theme=radical)](https://github.com/ahmedheltaher2002?tab=repositories)
+![ahmedheltaher2002's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedheltaher2002&hide=["issues"]&show_icons=true&theme=radical).   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedheltaher2002&layout=compact&theme=radical)](https://github.com/ahmedheltaher2002?tab=repositories)
 
 
 ##  🎉 Skills  🎉
