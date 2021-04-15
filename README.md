@@ -21,11 +21,8 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmedheltaher2002](https://github.com/ahmedheltaher2002)
 
-- 📫 How to reach me **[ahmedheltaher2002@gmail.com](mailto:ahmedheltaher2002@gmail.com)**
-
   
-  #### 📫 How to reach me:
-  
+#### 📫 How to reach me:  
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/ahmedheltaher)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/ahmed-eltaher-a643801b6/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/ahmed.eltaher.568294)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/ahmedheltaher/)  &nbsp; <a href="mailto:ahmedheltaher2002@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 ## ⚡ Stats
