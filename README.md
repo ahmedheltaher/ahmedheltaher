@@ -1,6 +1,3 @@
-[<img src="https://raw.githubusercontent.com/ahmedheltaher2002/ahmedheltaher2002/master/intro.gif" alt=" I'm [Ahmed Elather](https://github.com/ahmedheltaher2002)! 👋" title=" I'm [Ahmed Elather](https://github.com/ahmedheltaher2002)! 👋"/>]
-
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=ahmedheltaher2002.ahmedheltaher2002&color=00cf00)
 ### Hi there 👋
 
 <!--
@@ -26,6 +23,10 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **[ahmedheltaher2002@gmail.com](mailto:ahmedheltaher2002@gmail.com)**
 
+  
+  #### 📫 How to reach me:
+  
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/ahmedheltaher)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/ahmed-eltaher-a643801b6/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/ahmed.eltaher.568294)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/ahmedheltaher/)  &nbsp; <a href="mailto:ahmedheltaher2002@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 ## ⚡ Stats
 ![ahmedheltaher2002's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedheltaher2002&hide=["issues"]&show_icons=true).   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedheltaher2002&layout=compact&theme=radical)](https://github.com/ahmedheltaher2002?tab=repositories)
