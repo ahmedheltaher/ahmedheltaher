@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hey there, I'm [Ahmed Elather](https://github.com/ahmedheltaher2002)! 👋
+<h4 align="left">A passionate web & Gmae developer💻and computer science student at Ain Shams university🏫 😀</h4>
+
+- 🌱 I’m currently learning **Unity, C++, Game Development In General **
+
+- 👨‍💻 All of my projects are available at [https://github.com/ahmedheltaher2002](https://github.com/ahmedheltaher2002)
+
+- 📫 How to reach me **[ahmedheltaher2002@gmail.com](mailto:ahmedheltaher2002@gmail.com)**
+
+
+## ⚡ Stats
+![ahmedheltaher2002's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedheltaher2002&hide=["issues"]&show_icons=true).   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedheltaher2002&layout=compact&theme=radical)](https://github.com/ahmedheltaher2002?tab=repositories)
+
+
+##  🎉 Skills  🎉
+- **FrontEnd**: HTML, CSS, JS, Bootstrap 
+- **BackEnd**:  Node.js, Express, Flask
+- **Databases**: SQLlite, MySQL
+- **Tools**: Git, Eslint, Prettier, Typescript
+- **Languages**: C++, C#, Python, JavaScript
