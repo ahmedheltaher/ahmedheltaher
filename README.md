@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 [<img src="https://img.icons8.com/material/48/ffffff/twitter.png" width="3.5%"/>](https://twitter.com/ahmedheltaher)  &nbsp; [<img src="https://img.icons8.com/material/48/ffffff/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/ahmed-eltaher-a643801b6/)  &nbsp; [<img src="https://img.icons8.com/material/48/ffffff/facebook-new.png" width="3.5%"/>](https://www.facebook.com/ahmed.eltaher.568294)  &nbsp; [<img src="https://img.icons8.com/material/48/ffffff/instagram-new.png" width="3.5%"/>](https://www.instagram.com/ahmedheltaher/)  &nbsp; <a href="mailto:ahmedheltaher@gmail.com"> <img src="https://img.icons8.com/material/48/ffffff/gmail.png" width="3.5%"/> </a>
 
 ## ⚡ Stats
-![ahmedheltaher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedheltaher&hide=["issues"]&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedheltaher&layout=compact&theme=radical&langs_count=8)](https://github.com/ahmedheltaher?tab=repositories)
+![ahmedheltaher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedheltaher&hide=["issues"]&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedheltaher&layout=compact&theme=radical&langs_count=8)](https://github.com/ahmedheltaher?tab=repositories)
 
 ## 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ahmedheltaher&theme=radical&no-bg=true&no-frame=true&column=7)](https://github.com/ahmedheltaher/github-profile-trophy)
