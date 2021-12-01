@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ## ⚡ Stats
 ![ahmedheltaher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedheltaher&show_icons=true&theme=radical&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedheltaher&layout=compact&theme=radical&langs_count=8&hide_border=true)](https://github.com/ahmedheltaher?tab=repositories)
 
-## 🏆 Trophies
+<!-- ## 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ahmedheltaher&theme=radical&no-bg=true&no-frame=true&column=7)](https://github.com/ahmedheltaher/github-profile-trophy)
-
+ -->
 
 ##  🎉 Skills  🎉
 - **FrontEnd**: HTML, CSS, JS, Bootstrap 
