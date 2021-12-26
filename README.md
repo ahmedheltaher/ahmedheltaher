@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 ##  🎉 Skills  🎉
 - **FrontEnd**: HTML, CSS, JS, Bootstrap 
 - **BackEnd**:  Node.js, Express, Flask
-- **Databases**: SQLlite, MySQL, ORMS (Sequelize, Sqlalchemy)
+- **Databases**: SQLlite, MySQL, ORMS (Sequelize, SQLAlchemy)
 - **Tools**: Git, Eslint, Prettier, Typescript
 - **Languages**: C++, C#, Python, JavaScript
