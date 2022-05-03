@@ -21,8 +21,13 @@
 - **Tools**: Git, Eslint, Prettier, Typescript
 - **Languages**: C++, C#, Python, JavaScript
  -->
- 
- <div align="center">
+ <style>
+td, th {
+   border: none!important;
+}
+</style>
+
+<div align="center">
 <img src="https://raw.githubusercontent.com/ahmedheltaher/ahmedheltaher/master/index.png" align="center" style="width: 100%" />
 </div>  
   
@@ -46,7 +51,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<tr><td valign="top" width="33%">
 
 
 
@@ -96,7 +101,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
 </div>
 
-</td></tr></table>  
+</td></tr>
 
 <br/>  
 
@@ -119,7 +124,7 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<tr><td valign="top" width="50%">
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ahmedheltaher&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
 
@@ -127,4 +132,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedheltaher&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>
+</td></tr>
