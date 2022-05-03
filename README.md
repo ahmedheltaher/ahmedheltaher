@@ -23,7 +23,7 @@
 
  -->
  
- <img src="https://raw.githubusercontent.com/ahmedheltaher/ahmedheltaher/master/index.png" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/ahmedheltaher/ahmedheltaher/master/index.png" align="center" style="width: 100%" />
 
 ## <div align="center"> I'm Ahmed Eltaher a Back-End developer and CS Student at ASU - Egypt</div>
 
@@ -95,5 +95,17 @@
 
 ## Github Stats
 
-[![ahmedheltaher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedheltaher&show_icons=true&theme=radical&hide_border=true)](https://github.com/ahmedheltaher?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedheltaher&layout=compact&theme=radical&langs_count=8&hide_border=true)](https://github.com/ahmedheltaher?tab=repositories)
+<div align=center >
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahmedheltaher)
+</div>
+
+<div align=center>
+
+![ahmedheltaher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedheltaher&show_icons=true&theme=radical&hide_border=true)
+</div>
+
+<div align=center>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedheltaher&layout=compact&theme=radical&langs_count=8&hide_border=true)
+</div>
