@@ -22,10 +22,11 @@
 - **Languages**: C++, C#, Python, JavaScript
 
  -->
- 
-<img src="https://raw.githubusercontent.com/ahmedheltaher/ahmedheltaher/master/index.png" align="center" style="width: 100%" />
+ <img src="https://raw.githubusercontent.com/ahmedheltaher/ahmedheltaher/master/index.png" align="center" style="width: 100%" />
 
 ## <div align="center"> I'm Ahmed Eltaher a Back-End developer and CS Student at ASU - Egypt</div>
+
+![](https://komarev.com/ghpvc/?username=ahmedheltaher)
 
 - 🔭 I’m currently working on [Tweets Clustering](https://github.com/ahmedheltaher/tweets-clustering) app for University AI Course
 - 🌱 I’m currently learning **`Graphic Programming (Vulkan, OpenGl, Shaders)` and `Golang`**
@@ -93,19 +94,14 @@
 
 </div>
 
-## Github Stats
+## My Stats
 
-<div align=center >
+<br/>
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ahmedheltaher&show_icons=true&theme=radical&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedheltaher&theme=radical&hide_border=true" />
+  </a>
+</p>
+<br>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahmedheltaher)
-</div>
-
-<div align=center>
-
-![ahmedheltaher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedheltaher&show_icons=true&theme=radical&hide_border=true)
-</div>
-
-<div align=center>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedheltaher&layout=compact&theme=radical&langs_count=8&hide_border=true)
-</div>
+![Ahmed Eltaher' Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahmedheltaher&custom_title=Ahmed%20Eltaher's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
