@@ -105,3 +105,10 @@
 <br>
 
 ![Ahmed Eltaher' Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahmedheltaher&custom_title=Ahmed%20Eltaher's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+
+## Random Dev Quote
+
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  </div>
