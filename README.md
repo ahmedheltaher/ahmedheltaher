@@ -22,7 +22,7 @@
 - **Languages**: C++, C#, Python, JavaScript
 
  -->
- <img src="https://raw.githubusercontent.com/ahmedheltaher/ahmedheltaher/master/index.png" align="center" style="width: 100%" />
+ <img src="https://raw.githubusercontent.com/ahmedheltaher/ahmedheltaher/master/github-header-image(1).png" align="center" style="width: 100%" />
 
 ## <div align="center"> I'm Ahmed Eltaher a Back-End developer and CS Student at ASU - Egypt</div>
 
