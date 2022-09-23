@@ -1,37 +1,13 @@
-<!-- ### Hi there 👋
-
-### Hey there, I'm [Ahmed Elather](https://github.com/ahmedheltaher)! 👋
-<h4 align="left">A passionate web & Game developer💻 and computer science student at Ain Shams university 🏫 😀</h4>
-
-- 🌱 I’m currently learning **Unity, C++, Game Development In General and GoLang**
-- 👯 I’m looking to collaborate on **Any Fun, exciting C++ Game or any exciting web-based application in Node.js or Flask**
-- 👨‍💻 All of my projects are available at [https://github.com/ahmedheltaher](https://github.com/ahmedheltaher)
-- 💬 Ask me about **Python, Javascript, C++ and Some C and (Back-End Development In General)**
-  
-#### 📫 How to reach me:  
-[<img src="https://img.icons8.com/material/48/ffffff/twitter.png" width="3.5%"/>](https://twitter.com/ahmedheltaher)  &nbsp; [<img src="https://img.icons8.com/material/48/ffffff/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/ahmed-eltaher-a643801b6/)  &nbsp; [<img src="https://img.icons8.com/material/48/ffffff/facebook-new.png" width="3.5%"/>](https://www.facebook.com/ahmed.eltaher.568294)  &nbsp; [<img src="https://img.icons8.com/material/48/ffffff/instagram-new.png" width="3.5%"/>](https://www.instagram.com/ahmedheltaher/)  &nbsp; <a href="mailto:ahmedheltaher@gmail.com"> <img src="https://img.icons8.com/material/48/ffffff/gmail.png" width="3.5%"/> </a>
-
-## ⚡ Stats
-![ahmedheltaher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedheltaher&show_icons=true&theme=radical&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedheltaher&layout=compact&theme=radical&langs_count=8&hide_border=true)](https://github.com/ahmedheltaher?tab=repositories)
-
-##  🎉 Skills  🎉
-- **FrontEnd**: HTML, CSS, Bootstrap 
-- **BackEnd**:  Node.js, Express, Flask
-- **Databases**: SQLlite, MySQL, PLSQL, ORMS (Sequelize, SQLAlchemy)
-- **Tools**: Git, Eslint, Prettier, Typescript
-- **Languages**: C++, C#, Python, JavaScript
-
- -->
- <img src="https://raw.githubusercontent.com/ahmedheltaher/ahmedheltaher/master/github-header-image(1).png" align="center" style="width: 100%" />
+<img src="./assets/github-header-image(3).png" align="center" style="width: 100%" />
 
 ## <div align="center"> I'm Ahmed Eltaher a Back-End developer and CS Student at ASU - Egypt</div>
 
 ![](https://komarev.com/ghpvc/?username=ahmedheltaher)
 
-- 🔭 I’m currently working on [Tweets Clustering](https://github.com/ahmedheltaher/tweets-clustering) app for University AI Course
-- 🌱 I’m currently learning **`Graphic Programming (Vulkan, OpenGl, Shaders)` and `Golang`**
+- 🔭 I’m currently working on [**CTF-Writeups**](https://ahmedheltaher.github.io/ctf-writeups/) as a side project
+- 🌱 I’m currently learning **`Graphic Programming (Vulkan, OpenGl, Shaders)`** and **`Rust`**
 - ❓ Ask me about anything related to **`Back-End Development`**
-- ⚡ Fun fact: I use tabs over spaces
+- ⚡ Fun fact: I use tabs over spaces 😎
 
 ## My Skill Set
 
@@ -44,7 +20,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
 </div>
 
 ### Backend
@@ -109,6 +84,7 @@
 ## Random Dev Quote
 
 <div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  </div>
+
+![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
