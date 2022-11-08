@@ -74,19 +74,18 @@
 <br/>
 
 
-<p align="left">
+<div>
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ahmedheltaher&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedheltaher&theme=radical&hide_border=true" />
-  </a>
-</p>
+</div>
 <br>
 
 
-<div align="left">
-  
+<div>
 <img width="49.5%" align="top" src="https://github-profile-trophy.vercel.app/?username=ahmedheltaher&theme=radical&row=2&column=3&no-frame=true&no-bg=false&margin-w=5&margin-h=5" />
 <img width="49.5%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedheltaher&layout=compact&theme=radical&hide_border=true&langs_count=12&hide=jupyter%20notebook" />  
  </div>
+ 
  <br>
 
 ![Ahmed Eltaher' Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahmedheltaher&custom_title=Ahmed%20Eltaher's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
