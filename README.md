@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ahmedheltaher)
 
-- 🔭 I’m currently working on [**CTF-Writeups**](https://ahmedheltaher.github.io/ctf-writeups/) as a side project
+- 🔭 I’m currently working on [**CTF-Writeups**](https://ahmedheltaher.github.io/ctf-writeups/) as a side project.
 - 🌱 I’m currently learning **`Graphic Programming (Vulkan, OpenGl, Shaders)`**
 - ❓ Ask me about anything related to **`Back-End Development`**
 - ⚡ Fun fact: I use tabs over spaces 😎 
