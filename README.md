@@ -90,7 +90,7 @@
 ## Random Dev Quote
 
 <div align="center">
-
-![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+  
+![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
+  
 </div>
