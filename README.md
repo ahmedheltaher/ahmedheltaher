@@ -1,6 +1,6 @@
-<img src="./assets/github-header-image(3).png" align="center" style="width: 100%" /> 
+<img src="./assets/github-header.png" align="center" style="width: 100%" /> 
 
-## <div align="center"> I'm Ahmed Eltaher a Back-End developer and CS Student at ASU - Egypt</div>
+## <div align="center"> I'm Ahmed Eltaher a Software Engineer and CS Student at ASU - Egypt</div>
 
 ![](https://komarev.com/ghpvc/?username=ahmedheltaher)
 
