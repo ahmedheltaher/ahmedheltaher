@@ -1,6 +1,6 @@
 <img src="./assets/github-header.png" align="center" style="width: 100%" /> 
 
-## <div align="center"> I'm Ahmed Eltaher a Software Engineer - Egypt</div>
+## <div align="center"> I'm Ahmed Eltaher Software Engineer - Egypt</div>
 
 ![](https://komarev.com/ghpvc/?username=ahmedheltaher)
 
