@@ -10,7 +10,7 @@
 <!-- - ⚡ Fun fact: I use tabs over spaces 😎  -->
 
 ## My Skill Set
- 
+
 ### Frontend
 
 <div align="center">  
